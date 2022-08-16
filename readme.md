@@ -1,9 +1,15 @@
-## Independence Day
+# Independence Day
 
-On behalf of every Indians I wish you happy indendence day
-This is a small gift for my nation 
+## About the Repository
 
-About the Author
+> On behalf of every Indians I wish you happy indendence day
+> This is a small gift for my nation 
 
-Jeevan Joseph
-BCA Student
+## About the Maintainer
+ 
+ Jeevan Joseph
+ BCA Student
+
+## Demno Url
+
+<---Video link to be added--->
